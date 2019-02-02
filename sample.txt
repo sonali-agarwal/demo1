@@ -1,3 +1,5 @@
 ## Module GetInfo() goes here -->> ##
 
 ## Added some modules ##
+
+## Hotfix done.
